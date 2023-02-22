@@ -1,1 +1,2 @@
-# TP-Fondements-de-la-recherche-d-information
+# TP-Fundamentals-of-Information-Retrieval
+Practical work in the fundamentals of information retrieval module.
